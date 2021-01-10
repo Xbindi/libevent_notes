@@ -24,9 +24,6 @@ sudo make install
 测试：test/regress > log.txt
 ~~~
 
-
-
-
 # 参考资料
 
 + [libevent_C++高并发网络编程 高级篇](https://www.bilibili.com/video/BV1kZ4y137NZ?from=search&seid=15907418001775431098)
